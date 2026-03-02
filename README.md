@@ -196,7 +196,7 @@ pip install -r requirements.txt
 streamlit run app/streamlit_app.py
 ```
 
-Or try the **live demo** → [Hugging Face Spaces link coming soon]
+Or try the **live demo** → [[Hugging Face Spaces link coming soon]](https://huggingface.co/spaces/SachinK011/borrower-risk-intelligence)
 
 ---
 
