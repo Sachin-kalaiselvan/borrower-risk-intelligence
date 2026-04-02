@@ -210,4 +210,4 @@ Running a real lending operation taught me that default risk is rarely about a s
 
 ---
 
-**Sachin JK** — [LinkedIn](https://www.linkedin.com/in/sachinjk11/) | [GitHub](https://github.com/Sachin-kalaiselvan)
+**Sachin JK** — [GitHub](https://github.com/Sachin-kalaiselvan)
